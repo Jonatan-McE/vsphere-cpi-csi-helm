@@ -10,7 +10,6 @@ keywords:
   - cpi
   - csi
   - storage
-icon: file://../vsphere_7.png
 maintainers:
   - name: Stefan van Gastel
     email: stefanvangastel@gmail.com

@@ -1,0 +1,84 @@
+apiVersion: v1
+entries:
+  vsphere-cpi-csi:
+  - apiVersion: v1
+    appVersion: 2.0.0
+    created: "2020-11-21T10:35:27.391298596Z"
+    description: vSphere CPI manager and CSI drivers
+    digest: e1748837d33b1402bb4cc40d65c6e9beccceb8500fe5c16b892b3a500adf4fe0
+    keywords:
+    - vsphere
+    - vmware
+    - esxi
+    - cpi
+    - csi
+    - storage
+    maintainers:
+    - email: stefanvangastel@gmail.com
+      name: Stefan van Gastel
+    - email: thouweling@gmail.com
+      name: Tom Houweling
+    name: vsphere-cpi-csi
+    urls:
+    - https://github.com/Jonatan-McE/vsphere-cpi-csi-helm/releases/download/vsphere-cpi-csi-2.0.0/vsphere-cpi-csi-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: 2.0.0-rancheros
+    created: "2020-11-21T10:35:27.144366017Z"
+    description: vSphere CPI manager and CSI drivers
+    digest: 390e68d6a3593256116dc9352758c55964ba835a431073dc2953451d4d5be1c4
+    keywords:
+    - vsphere
+    - vmware
+    - esxi
+    - cpi
+    - csi
+    - storage
+    maintainers:
+    - email: stefanvangastel@gmail.com
+      name: Stefan van Gastel
+    - email: thouweling@gmail.com
+      name: Tom Houweling
+    name: vsphere-cpi-csi
+    urls:
+    - https://github.com/Jonatan-McE/vsphere-cpi-csi-helm/releases/download/vsphere-cpi-csi-2.0.0-rancheros/vsphere-cpi-csi-2.0.0-rancheros.tgz
+    version: 2.0.0-rancheros
+  - apiVersion: v1
+    appVersion: 1.0.2
+    created: "2020-11-21T10:35:26.900953852Z"
+    description: vSphere CPI manager v1.1.0 and CSI drivers v1.0.2
+    digest: 58e07ac68011d33becee9a4e41a373114330f60bd89488a9638ca4f65a28a866
+    keywords:
+    - vsphere
+    - vmware
+    - esxi
+    - cpi
+    - csi
+    - storage
+    maintainers:
+    - email: stefanvangastel@gmail.com
+      name: Stefan van Gastel
+    name: vsphere-cpi-csi
+    urls:
+    - https://github.com/Jonatan-McE/vsphere-cpi-csi-helm/releases/download/vsphere-cpi-csi-1.0.2/vsphere-cpi-csi-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: 1.0.2-rancheros
+    created: "2020-11-21T10:35:26.673502055Z"
+    description: vSphere CPI manager v1.1.0 and CSI drivers v1.0.2
+    digest: 4ac9c06fbd86f4ba15afa8f9926c725635c710dcf5cbd66b29e0f65d55e0653c
+    keywords:
+    - vsphere
+    - vmware
+    - esxi
+    - cpi
+    - csi
+    - storage
+    maintainers:
+    - email: stefanvangastel@gmail.com
+      name: Stefan van Gastel
+    name: vsphere-cpi-csi
+    urls:
+    - https://github.com/Jonatan-McE/vsphere-cpi-csi-helm/releases/download/vsphere-cpi-csi-1.0.2-rancheros/vsphere-cpi-csi-1.0.2-rancheros.tgz
+    version: 1.0.2-rancheros
+generated: "2020-11-21T10:35:26.251311706Z"
